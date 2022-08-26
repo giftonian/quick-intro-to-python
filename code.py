@@ -1,3 +1,6 @@
+# Author: Waqas Tariq Dar
+# Email: waqastariqdar@gmail.com
+
 # Book => Python Interview Cheatsheet
 print("Welcome to Python")
 print(1/3) # decimal
